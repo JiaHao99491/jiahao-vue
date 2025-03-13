@@ -3,8 +3,8 @@ import { h, defineComponent, onMounted } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import './style.css'
 import 'jiahao-vue/lib.css'
+import './style.css'
 import './reset.css'
 
 import { initThemeSwitcher } from './theme-switcher-support'
