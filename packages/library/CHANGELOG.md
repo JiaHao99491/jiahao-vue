@@ -1,5 +1,11 @@
 # jiahao-vue
 
+## 0.3.1
+
+### Patch Changes
+
+- docs: 文档链接指向更新
+
 ## 0.3.0
 
 ### Minor Changes

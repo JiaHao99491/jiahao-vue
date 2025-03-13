@@ -1,14 +1,14 @@
 {
   "name": "jiahao-vue",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "type": "module",
   "description": "Vue Component Library",
   "license": "MIT",
   "author": "JiaHao",
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://www.jiahao-vue.cn/",
+  "repository": "https://github.com/JiaHao99491/jiahao-vue",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/JiaHao99491/jiahao-vue/issues"
   },
   "keywords": [
     "jiahao-vue",
