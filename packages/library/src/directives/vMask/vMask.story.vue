@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { masks } from '../../globals'
-import { vMask } from './VMask'
+import { vMask } from './vMask'
 </script>
 <template>
   <Story :layout="{ type: 'grid', width: '300px' }">

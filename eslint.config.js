@@ -16,7 +16,8 @@ module.exports = defineConfigWithVueTs([
             'packages/docs/.vitepress/**',
             '*.js',
             'packages/**/__tests__/**',
-            'packages/**/jiahaovue/**'
+            'packages/**/jiahaovue/**',
+            'packages/**/.histoire/**'
         ]
     },
     
