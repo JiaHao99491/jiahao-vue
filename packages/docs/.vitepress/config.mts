@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Components', link: '/components' },
-      { text: 'Playground', link: 'https://jiahao-vue-library.vercel.app/' }
+      { text: 'Playground', link: 'https://www.jiahaovue-playground.cn/' }
     ],
 
     sidebar: [
