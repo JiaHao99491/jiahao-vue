@@ -1,0 +1,23 @@
+import { _ as e, c as h, o as l, ae as i } from './chunks/framework.D5jwEaSD.js'
+const g = JSON.parse(
+    '{"title":"docs","description":"","frontmatter":{},"headers":[],"relativePath":"CHANGELOG.md","filePath":"CHANGELOG.md"}'
+  ),
+  t = { name: 'CHANGELOG.md' }
+function n(r, a, c, o, s, d) {
+  return (
+    l(),
+    h(
+      'div',
+      null,
+      a[0] ||
+        (a[0] = [
+          i(
+            '<h1 id="docs" tabindex="-1">docs <a class="header-anchor" href="#docs" aria-label="Permalink to &quot;docs&quot;">​</a></h1><h2 id="_1-3-0" tabindex="-1">1.3.0 <a class="header-anchor" href="#_1-3-0" aria-label="Permalink to &quot;1.3.0&quot;">​</a></h2><h3 id="minor-changes" tabindex="-1">Minor Changes <a class="header-anchor" href="#minor-changes" aria-label="Permalink to &quot;Minor Changes&quot;">​</a></h3><ul><li>feat: 添加表格和菜单组件和修复已知问题</li></ul><h3 id="patch-changes" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>Updated dependencies <ul><li>jiahao-vue@0.3.0</li></ul></li></ul><h2 id="_1-2-2" tabindex="-1">1.2.2 <a class="header-anchor" href="#_1-2-2" aria-label="Permalink to &quot;1.2.2&quot;">​</a></h2><h3 id="patch-changes-1" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-1" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>Updated dependencies <ul><li>jiahao-vue@0.2.2</li></ul></li></ul><h2 id="_1-2-1" tabindex="-1">1.2.1 <a class="header-anchor" href="#_1-2-1" aria-label="Permalink to &quot;1.2.1&quot;">​</a></h2><h3 id="patch-changes-2" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-2" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>Updated dependencies <ul><li>jiahao-vue@0.2.1</li></ul></li></ul><h2 id="_1-2-0" tabindex="-1">1.2.0 <a class="header-anchor" href="#_1-2-0" aria-label="Permalink to &quot;1.2.0&quot;">​</a></h2><h3 id="minor-changes-1" tabindex="-1">Minor Changes <a class="header-anchor" href="#minor-changes-1" aria-label="Permalink to &quot;Minor Changes&quot;">​</a></h3><ul><li>feature 增加评分组件 添加组件库图标和ReadMe整理</li></ul><h3 id="patch-changes-3" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-3" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>Updated dependencies <ul><li>jiahao-vue@0.2.0</li></ul></li></ul><h2 id="_1-1-4" tabindex="-1">1.1.4 <a class="header-anchor" href="#_1-1-4" aria-label="Permalink to &quot;1.1.4&quot;">​</a></h2><h3 id="patch-changes-4" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-4" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>fix: 打包后声明文件没了</li><li>Updated dependencies <ul><li>jiahao-vue@0.1.4</li></ul></li></ul><h2 id="_1-1-3" tabindex="-1">1.1.3 <a class="header-anchor" href="#_1-1-3" aria-label="Permalink to &quot;1.1.3&quot;">​</a></h2><h3 id="patch-changes-5" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-5" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>fix: 导入组件找不到声明文件</li><li>Updated dependencies <ul><li>jiahao-vue@0.1.3</li></ul></li></ul><h2 id="_1-1-2" tabindex="-1">1.1.2 <a class="header-anchor" href="#_1-1-2" aria-label="Permalink to &quot;1.1.2&quot;">​</a></h2><h3 id="patch-changes-6" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-6" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>fix: 导入文件出错问题</li><li>Updated dependencies <ul><li>jiahao-vue@0.1.2</li></ul></li></ul><h2 id="_1-1-1" tabindex="-1">1.1.1 <a class="header-anchor" href="#_1-1-1" aria-label="Permalink to &quot;1.1.1&quot;">​</a></h2><h3 id="patch-changes-7" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-7" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>fix: 打包后少文件引用报错问题</li><li>Updated dependencies <ul><li>jiahao-vue@0.1.1</li></ul></li></ul><h2 id="_1-1-0" tabindex="-1">1.1.0 <a class="header-anchor" href="#_1-1-0" aria-label="Permalink to &quot;1.1.0&quot;">​</a></h2><h3 id="minor-changes-2" tabindex="-1">Minor Changes <a class="header-anchor" href="#minor-changes-2" aria-label="Permalink to &quot;Minor Changes&quot;">​</a></h3><ul><li>feature: 浏览器模拟组件</li><li>feature: 按钮组件，tabs组件</li></ul><h3 id="patch-changes-8" tabindex="-1">Patch Changes <a class="header-anchor" href="#patch-changes-8" aria-label="Permalink to &quot;Patch Changes&quot;">​</a></h3><ul><li>Updated dependencies</li><li>Updated dependencies <ul><li>jiahao-vue@0.1.0</li></ul></li></ul>',
+            34
+          )
+        ])
+    )
+  )
+}
+const p = e(t, [['render', n]])
+export { g as __pageData, p as default }

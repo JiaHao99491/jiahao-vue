@@ -13,12 +13,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^9.5.1",
     "vitepress": "^1.6.3"
   },
   "dependencies": {
+    "daisyui": "^4.6.1",
     "jiahao-vue": "workspace:^",
     "tailwindcss": "^3.4.1",
-    "vue": "^3.5.13",
-    "daisyui": "^4.6.1"
+    "vue": "^3.5.13"
   }
 }

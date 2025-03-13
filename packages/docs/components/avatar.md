@@ -6,8 +6,18 @@ import {JiaHaoAvatar} from 'jiahao-vue'
 
 ## Without any props
 
-<JiaHaoAvatar/>
+<JiaHaoAvatar  
+    size="md"
+    class="bg-green-500"
+    :src="`https://i.pravatar.cc/150?img=1000000`"
+    placeholder="DK"
+/>
 
 ```vue
-<JiaHaoAvatar />
+<JiaHaoAvatar
+  size="md"
+  class="bg-green-500"
+  :src="`https://i.pravatar.cc/150?img=1000000`"
+  placeholder="DK"
+/>
 ```

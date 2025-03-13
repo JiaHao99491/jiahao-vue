@@ -1,13 +1,19 @@
 <script setup lang="ts">
 import {JiaHaoSteps} from 'jiahao-vue'
+const steps = ['Go to store', 'Get Milk', 'Get Bread', 'Checkout at Register']
 </script>
 
 # Steps Component
 
 ## Without any props
 
-<JiaHaoSteps/>
+<JiaHaoSteps
+:steps="steps"
+:layout="'horizontal'"
+:color="'primary'"
+
+> </JiaHaoSteps>
 
 ```vue
-<JiaHaoSteps />
+<JiaHaoSteps :steps="steps" :layout="'horizontal'" :color="'primary'"></JiaHaoSteps>
 ```

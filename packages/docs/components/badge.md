@@ -6,7 +6,7 @@ import {JiaHaoBadge} from 'jiahao-vue'
 
 ## Without any props
 
-<JiaHaoBadge/>
+<JiaHaoBadge color="primary" size="md">24</JiaHaoBadge>
 
 ```vue
 <JiaHaoBadge />

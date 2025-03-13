@@ -30,7 +30,6 @@ export default defineConfig({
           { text: 'Badge', link: '/components/badge' },
           { text: 'Rating', link: '/components/rating' },
           { text: 'Accordian', link: '/components/accordian' },
-          { text: 'AccordianPanel', link: '/components/accordianpanel' },
           { text: 'Alert', link: '/components/alert' },
           { text: 'Steps', link: '/components/steps' },
           { text: 'Avatar', link: '/components/avatar' },
