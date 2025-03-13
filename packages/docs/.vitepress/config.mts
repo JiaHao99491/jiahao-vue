@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Components', link: '/components' },
-      { text: 'Playground', link: 'https://daisy-vue-stories.netlify.app/' }
+      { text: 'Playground', link: 'https://jiahao-vue-library.vercel.app/' }
     ],
 
     sidebar: [
@@ -41,6 +41,6 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }]
+    socialLinks: [{ icon: 'github', link: 'https://github.com/JiaHao99491' }]
   }
 })
