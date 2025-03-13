@@ -42,6 +42,7 @@ import {JiaHaoMenu} from 'jiahao-vue'
           },
         ]"
       >
+
 <div>Some stuff going on here that needs a custom context menu.</div>
 <div>Right click me to see context menu</div>
 </JiaHaoMenu>

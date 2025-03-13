@@ -7,13 +7,8 @@ const steps = ['Go to store', 'Get Milk', 'Get Bread', 'Checkout at Register']
 
 ## Without any props
 
-<JiaHaoSteps
-:steps="steps"
-:layout="'horizontal'"
-:color="'primary'"
-
-> </JiaHaoSteps>
+<JiaHaoSteps :steps="steps" layout="horizontal" color="primary"/>
 
 ```vue
-<JiaHaoSteps :steps="steps" :layout="'horizontal'" :color="'primary'"></JiaHaoSteps>
+<JiaHaoSteps :steps="steps" layout="horizontal" color="primary" />
 ```
