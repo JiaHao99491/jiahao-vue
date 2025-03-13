@@ -12,7 +12,7 @@ hero:
       link: /components
     - theme: alt
       text: Playground Examples
-      link: 'https://daisy-vue-stories.netlify.app/'
+      link: 'https://jiahao-vue-library.vercel.app/'
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
